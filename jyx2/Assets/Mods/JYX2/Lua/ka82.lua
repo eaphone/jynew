@@ -18,90 +18,90 @@ if TryBattle(12) == true then goto label0 end;
 	ModifyEvent(-2, 12, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-12
     ModifyEvent(-2, 14, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-14
     ModifyEvent(-2, 15, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-15
-	jyx2_ReplaceSceneObject("", "NPC/昆仑弟子12", "");
-	jyx2_ReplaceSceneObject("", "NPC/昆仑弟子14", "");
-	jyx2_ReplaceSceneObject("", "NPC/昆仑弟子15", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/昆仑弟子12", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/昆仑弟子14", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/昆仑弟子15", "");
     ModifyEvent(-2, 16, 0, 0, -1, -1, -1, 5434, 5434, 5434, -2, -2, -2);--by fanyu|改变贴图，战斗胜利。场景11-16
     ModifyEvent(-2, 17, 0, 0, -1, -1, -1, 5432, 5432, 5432, -2, -2, -2);--by fanyu|改变贴图，战斗胜利。场景11-17
     ModifyEvent(-2, 18, 0, 0, -1, -1, -1, 5434, 5434, 5434, -2, -2, -2);--by fanyu|改变贴图，战斗胜利。场景11-18
-	jyx2_SwitchRoleAnimation("NPC/昆仑弟子16","Assets/BuildSource/AnimationControllers/Dead.controller");
-	jyx2_SwitchRoleAnimation("NPC/昆仑弟子17","Assets/BuildSource/AnimationControllers/Dead.controller");
-	jyx2_SwitchRoleAnimation("NPC/昆仑弟子18","Assets/BuildSource/AnimationControllers/Dead.controller");
+	jyx2_SwitchRoleAnimation("NPC/六大派弟子/昆仑弟子16","Assets/BuildSource/AnimationControllers/Dead.controller");
+	jyx2_SwitchRoleAnimation("NPC/六大派弟子/昆仑弟子17","Assets/BuildSource/AnimationControllers/Dead.controller");
+	jyx2_SwitchRoleAnimation("NPC/六大派弟子/昆仑弟子18","Assets/BuildSource/AnimationControllers/Dead.controller");
 	--崆峒派
     ModifyEvent(-2, 20, 0, 0, -1, -1, -1, 5428, 5428, 5428, -2, -2, -2);--by fanyu|改变贴图，战斗胜利。场景11-20
-	jyx2_SwitchRoleAnimation("NPC/崆峒弟子20","Assets/BuildSource/AnimationControllers/Dead.controller");
+	jyx2_SwitchRoleAnimation("NPC/六大派弟子/崆峒弟子20","Assets/BuildSource/AnimationControllers/Dead.controller");
     ModifyEvent(-2, 21, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-21
     ModifyEvent(-2, 22, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-22
     ModifyEvent(-2, 23, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-23
-	jyx2_ReplaceSceneObject("", "NPC/崆峒弟子21", "");
-	jyx2_ReplaceSceneObject("", "NPC/崆峒弟子22", "");
-	jyx2_ReplaceSceneObject("", "NPC/崆峒弟子23", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/崆峒弟子21", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/崆峒弟子22", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/崆峒弟子23", "");
     ModifyEvent(-2, 24, 0, 0, -1, -1, -1, 5428, 5428, 5428, -2, -2, -2);--by fanyu|改变贴图，战斗胜利。场景11-24
-	jyx2_SwitchRoleAnimation("NPC/崆峒弟子24","Assets/BuildSource/AnimationControllers/Dead.controller");
+	jyx2_SwitchRoleAnimation("NPC/六大派弟子/崆峒弟子24","Assets/BuildSource/AnimationControllers/Dead.controller");
     ModifyEvent(-2, 25, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-25
-	jyx2_ReplaceSceneObject("", "NPC/崆峒弟子25", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/崆峒弟子25", "");
     ModifyEvent(-2, 26, 0, 0, -1, -1, -1, 5430, 5430, 5430, -2, -2, -2);--by fanyu|改变贴图，战斗胜利。场景11-26
-	jyx2_SwitchRoleAnimation("NPC/崆峒弟子26","Assets/BuildSource/AnimationControllers/Dead.controller");
+	jyx2_SwitchRoleAnimation("NPC/六大派弟子/崆峒弟子26","Assets/BuildSource/AnimationControllers/Dead.controller");
     ModifyEvent(-2, 27, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-27
-	jyx2_ReplaceSceneObject("", "NPC/崆峒弟子27", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/崆峒弟子27", "");
 	--华山派
     ModifyEvent(-2, 29, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-29
     ModifyEvent(-2, 32, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-32
     ModifyEvent(-2, 33, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-33
     ModifyEvent(-2, 34, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-34
     ModifyEvent(-2, 35, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-35
-	jyx2_ReplaceSceneObject("", "NPC/华山弟子29", "");
-	jyx2_ReplaceSceneObject("", "NPC/华山弟子32", "");
-	jyx2_ReplaceSceneObject("", "NPC/华山弟子33", "");
-	jyx2_ReplaceSceneObject("", "NPC/华山弟子34", "");
-	jyx2_ReplaceSceneObject("", "NPC/华山弟子35", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/华山弟子29", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/华山弟子32", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/华山弟子33", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/华山弟子34", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/华山弟子35", "");
 	--少林派
     ModifyEvent(-2, 38, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-38
-	jyx2_ReplaceSceneObject("", "NPC/少林弟子38", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/少林弟子38", "");
     ModifyEvent(-2, 39, 0, 0, -1, -1, -1, 5446, 5446, 5446, -2, -2, -2);--by fanyu|改变贴图，战斗胜利。场景11-39
-	jyx2_SwitchRoleAnimation("NPC/少林弟子39","Assets/BuildSource/AnimationControllers/Dead.controller");
+	jyx2_SwitchRoleAnimation("NPC/六大派弟子/少林弟子39","Assets/BuildSource/AnimationControllers/Dead.controller");
     ModifyEvent(-2, 40, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-40
-	jyx2_ReplaceSceneObject("", "NPC/少林弟子40", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/少林弟子40", "");
     ModifyEvent(-2, 41, 0, 0, -1, -1, -1, 5444, 5444, 5444, -2, -2, -2);--by fanyu|改变贴图，战斗胜利。场景11-41
-	jyx2_SwitchRoleAnimation("NPC/少林弟子41","Assets/BuildSource/AnimationControllers/Dead.controller");
+	jyx2_SwitchRoleAnimation("NPC/六大派弟子/少林弟子41","Assets/BuildSource/AnimationControllers/Dead.controller");
     ModifyEvent(-2, 42, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-42
     ModifyEvent(-2, 43, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-43
-	jyx2_ReplaceSceneObject("", "NPC/少林弟子42", "");
-	jyx2_ReplaceSceneObject("", "NPC/少林弟子43", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/少林弟子42", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/少林弟子43", "");
     ModifyEvent(-2, 44, 0, 0, -1, -1, -1, 5444, 5444, 5444, -2, -2, -2);--by fanyu|改变贴图，战斗胜利。场景11-44
-	jyx2_SwitchRoleAnimation("NPC/少林弟子44","Assets/BuildSource/AnimationControllers/Dead.controller");
+	jyx2_SwitchRoleAnimation("NPC/六大派弟子/少林弟子44","Assets/BuildSource/AnimationControllers/Dead.controller");
     ModifyEvent(-2, 45, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-45
-	jyx2_ReplaceSceneObject("", "NPC/少林弟子45", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/少林弟子45", "");
     ModifyEvent(-2, 46, 0, 0, -1, -1, -1, 5446, 5446, 5446, -2, -2, -2);--by fanyu|改变贴图，战斗胜利。场景11-46
-	jyx2_SwitchRoleAnimation("NPC/少林弟子46","Assets/BuildSource/AnimationControllers/Dead.controller");
+	jyx2_SwitchRoleAnimation("NPC/六大派弟子/少林弟子46","Assets/BuildSource/AnimationControllers/Dead.controller");
 	--峨嵋
     ModifyEvent(-2, 48, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-48
     ModifyEvent(-2, 51, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-51
-	jyx2_ReplaceSceneObject("", "NPC/峨嵋弟子48", "");
-	jyx2_ReplaceSceneObject("", "NPC/峨嵋弟子51", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/峨嵋弟子48", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/峨嵋弟子51", "");
     ModifyEvent(-2, 52, 0, 0, -1, -1, -1, 5436, 5436, 5436, -2, -2, -2);--by fanyu|改变贴图，战斗胜利。场景11-52
     ModifyEvent(-2, 53, 0, 0, -1, -1, -1, 5438, 5438, 5438, -2, -2, -2);--by fanyu|改变贴图，战斗胜利。场景11-53
-	jyx2_SwitchRoleAnimation("NPC/峨嵋弟子52","Assets/BuildSource/AnimationControllers/Dead-FaceUp.controller");
-	jyx2_SwitchRoleAnimation("NPC/峨嵋弟子53","Assets/BuildSource/AnimationControllers/Dead-FaceUp.controller");
+	jyx2_SwitchRoleAnimation("NPC/六大派弟子/峨嵋弟子52","Assets/BuildSource/AnimationControllers/Dead-FaceUp.controller");
+	jyx2_SwitchRoleAnimation("NPC/六大派弟子/峨嵋弟子53","Assets/BuildSource/AnimationControllers/Dead-FaceUp.controller");
     ModifyEvent(-2, 54, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-54
-	jyx2_ReplaceSceneObject("", "NPC/峨嵋弟子54", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/峨嵋弟子54", "");
     ModifyEvent(-2, 55, 0, 0, -1, -1, -1, 5436, 5436, 5436, -2, -2, -2);--by fanyu|改变贴图，战斗胜利。场景11-55
-	jyx2_SwitchRoleAnimation("NPC/峨嵋弟子55","Assets/BuildSource/AnimationControllers/Dead-FaceUp.controller");
+	jyx2_SwitchRoleAnimation("NPC/六大派弟子/峨嵋弟子55","Assets/BuildSource/AnimationControllers/Dead-FaceUp.controller");
     ModifyEvent(-2, 56, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-56
-	jyx2_ReplaceSceneObject("", "NPC/峨嵋弟子56", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/峨嵋弟子56", "");
 	--武当
     ModifyEvent(-2, 58, 0, 0, -1, -1, -1, 5442, 5442, 5442, -2, -2, -2);--by fanyu|改变贴图，战斗胜利。场景11-58
-	jyx2_SwitchRoleAnimation("NPC/武当弟子58","Assets/BuildSource/AnimationControllers/Dead-FaceUp.controller");
+	jyx2_SwitchRoleAnimation("NPC/六大派弟子/武当弟子58","Assets/BuildSource/AnimationControllers/Dead-FaceUp.controller");
     ModifyEvent(-2, 59, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-59
-	jyx2_ReplaceSceneObject("", "NPC/武当弟子59", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/武当弟子59", "");
     ModifyEvent(-2, 60, 0, 0, -1, -1, -1, 5440, 5440, 5440, -2, -2, -2);--by fanyu|改变贴图，战斗胜利。场景11-60
-	jyx2_SwitchRoleAnimation("NPC/武当弟子60","Assets/BuildSource/AnimationControllers/Dead-FaceUp.controller");
+	jyx2_SwitchRoleAnimation("NPC/六大派弟子/武当弟子60","Assets/BuildSource/AnimationControllers/Dead-FaceUp.controller");
     ModifyEvent(-2, 61, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-61
-	jyx2_ReplaceSceneObject("", "NPC/武当弟子61", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/武当弟子61", "");
     ModifyEvent(-2, 62, 0, 0, -1, -1, -1, 5442, 5442, 5442, -2, -2, -2);--by fanyu|改变贴图，战斗胜利。场景11-62
-	jyx2_SwitchRoleAnimation("NPC/武当弟子62","Assets/BuildSource/AnimationControllers/Dead-FaceUp.controller");
+	jyx2_SwitchRoleAnimation("NPC/六大派弟子/武当弟子62","Assets/BuildSource/AnimationControllers/Dead-FaceUp.controller");
     ModifyEvent(-2, 63, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|战斗胜利，贴图消失。场景11-63
-	jyx2_ReplaceSceneObject("", "NPC/武当弟子63", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/武当弟子63", "");
     LightScence();
     Talk(0, "如何？现在肯安静地听我说了吧。事情的经过是这样的……如此如此…………这般这般…………总之，一切的阴谋，都是成昆那奸贼所计划的。所以我说呢，你们两方还是握手言和吧，反正明教杀过六大派的人，六大派也杀过明教的人，大家半斤八两，差不了多少，就都罢手吧。", "talkname0", 1);
     Talk(8, "话都是你在说的，是不是真的，我们怎么知道。", "talkname8", 0);
@@ -117,6 +117,7 @@ if TryBattle(12) == true then goto label0 end;
 	jyx2_ReplaceSceneObject("", "NPC/玄慈", "");
     ModifyEvent(-2, 10, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
 	jyx2_ReplaceSceneObject("", "NPC/灭绝", "");
+    jyx2_FixMapObject("光明顶战后",1);
 	--昆仑
     ModifyEvent(-2, 11, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 12, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
@@ -127,15 +128,15 @@ if TryBattle(12) == true then goto label0 end;
     ModifyEvent(-2, 17, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 18, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 19, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
-	jyx2_ReplaceSceneObject("", "NPC/昆仑弟子11", "");
-	jyx2_ReplaceSceneObject("", "NPC/昆仑弟子12", "");
-	jyx2_ReplaceSceneObject("", "NPC/昆仑弟子13", "");
-	jyx2_ReplaceSceneObject("", "NPC/昆仑弟子14", "");
-	jyx2_ReplaceSceneObject("", "NPC/昆仑弟子15", "");
-	jyx2_ReplaceSceneObject("", "NPC/昆仑弟子16", "");
-	jyx2_ReplaceSceneObject("", "NPC/昆仑弟子17", "");
-	jyx2_ReplaceSceneObject("", "NPC/昆仑弟子18", "");
-	jyx2_ReplaceSceneObject("", "NPC/昆仑弟子19-死", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/昆仑弟子11", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/昆仑弟子12", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/昆仑弟子13", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/昆仑弟子14", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/昆仑弟子15", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/昆仑弟子16", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/昆仑弟子17", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/昆仑弟子18", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/昆仑弟子19-死", "");
 	--崆峒
     ModifyEvent(-2, 20, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 21, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
@@ -146,15 +147,15 @@ if TryBattle(12) == true then goto label0 end;
     ModifyEvent(-2, 26, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 27, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 28, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
-	jyx2_ReplaceSceneObject("", "NPC/崆峒弟子20", "");
-	jyx2_ReplaceSceneObject("", "NPC/崆峒弟子21", "");
-	jyx2_ReplaceSceneObject("", "NPC/崆峒弟子22", "");
-	jyx2_ReplaceSceneObject("", "NPC/崆峒弟子23", "");
-	jyx2_ReplaceSceneObject("", "NPC/崆峒弟子24", "");
-	jyx2_ReplaceSceneObject("", "NPC/崆峒弟子25", "");
-	jyx2_ReplaceSceneObject("", "NPC/崆峒弟子26", "");
-	jyx2_ReplaceSceneObject("", "NPC/崆峒弟子27", "");
-	jyx2_ReplaceSceneObject("", "NPC/崆峒弟子28-死", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/崆峒弟子20", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/崆峒弟子21", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/崆峒弟子22", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/崆峒弟子23", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/崆峒弟子24", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/崆峒弟子25", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/崆峒弟子26", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/崆峒弟子27", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/崆峒弟子28-死", "");
 	--华山
     ModifyEvent(-2, 29, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 30, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
@@ -163,13 +164,13 @@ if TryBattle(12) == true then goto label0 end;
     ModifyEvent(-2, 33, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 34, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 35, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
-	jyx2_ReplaceSceneObject("", "NPC/华山弟子29", "");
-	jyx2_ReplaceSceneObject("", "NPC/华山弟子30", "");
-	jyx2_ReplaceSceneObject("", "NPC/华山弟子31", "");
-	jyx2_ReplaceSceneObject("", "NPC/华山弟子32", "");
-	jyx2_ReplaceSceneObject("", "NPC/华山弟子33", "");
-	jyx2_ReplaceSceneObject("", "NPC/华山弟子34", "");
-	jyx2_ReplaceSceneObject("", "NPC/华山弟子35", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/华山弟子29", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/华山弟子30", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/华山弟子31", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/华山弟子32", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/华山弟子33", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/华山弟子34", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/华山弟子35", "");
 	--少林
     ModifyEvent(-2, 36, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 37, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
@@ -183,18 +184,18 @@ if TryBattle(12) == true then goto label0 end;
     ModifyEvent(-2, 45, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 46, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 47, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
-	jyx2_ReplaceSceneObject("", "NPC/少林弟子36", "");
-	jyx2_ReplaceSceneObject("", "NPC/少林弟子37", "");
-	jyx2_ReplaceSceneObject("", "NPC/少林弟子38", "");
-	jyx2_ReplaceSceneObject("", "NPC/少林弟子39", "");
-	jyx2_ReplaceSceneObject("", "NPC/少林弟子40", "");
-	jyx2_ReplaceSceneObject("", "NPC/少林弟子41", "");
-	jyx2_ReplaceSceneObject("", "NPC/少林弟子42", "");
-	jyx2_ReplaceSceneObject("", "NPC/少林弟子43", "");
-	jyx2_ReplaceSceneObject("", "NPC/少林弟子44", "");
-	jyx2_ReplaceSceneObject("", "NPC/少林弟子45", "");
-	jyx2_ReplaceSceneObject("", "NPC/少林弟子46", "");
-	jyx2_ReplaceSceneObject("", "NPC/少林弟子47-死", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/少林弟子36", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/少林弟子37", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/少林弟子38", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/少林弟子39", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/少林弟子40", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/少林弟子41", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/少林弟子42", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/少林弟子43", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/少林弟子44", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/少林弟子45", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/少林弟子46", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/少林弟子47-死", "");
 	--峨嵋
     ModifyEvent(-2, 48, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 49, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
@@ -206,16 +207,16 @@ if TryBattle(12) == true then goto label0 end;
     ModifyEvent(-2, 55, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 56, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 57, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
-	jyx2_ReplaceSceneObject("", "NPC/峨嵋弟子48", "");
-	jyx2_ReplaceSceneObject("", "NPC/峨嵋弟子49", "");
-	jyx2_ReplaceSceneObject("", "NPC/峨嵋弟子50", "");
-	jyx2_ReplaceSceneObject("", "NPC/峨嵋弟子51", "");
-	jyx2_ReplaceSceneObject("", "NPC/峨嵋弟子52", "");
-	jyx2_ReplaceSceneObject("", "NPC/峨嵋弟子53", "");
-	jyx2_ReplaceSceneObject("", "NPC/峨嵋弟子54", "");
-	jyx2_ReplaceSceneObject("", "NPC/峨嵋弟子55", "");
-	jyx2_ReplaceSceneObject("", "NPC/峨嵋弟子56", "");
-	jyx2_ReplaceSceneObject("", "NPC/峨嵋弟子57-死", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/峨嵋弟子48", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/峨嵋弟子49", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/峨嵋弟子50", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/峨嵋弟子51", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/峨嵋弟子52", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/峨嵋弟子53", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/峨嵋弟子54", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/峨嵋弟子55", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/峨嵋弟子56", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/峨嵋弟子57-死", "");
 	--武当
     ModifyEvent(-2, 58, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 59, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
@@ -224,13 +225,13 @@ if TryBattle(12) == true then goto label0 end;
     ModifyEvent(-2, 62, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 63, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 64, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
-	jyx2_ReplaceSceneObject("", "NPC/武当弟子58", "");
-	jyx2_ReplaceSceneObject("", "NPC/武当弟子59", "");
-	jyx2_ReplaceSceneObject("", "NPC/武当弟子60", "");
-	jyx2_ReplaceSceneObject("", "NPC/武当弟子61", "");
-	jyx2_ReplaceSceneObject("", "NPC/武当弟子62", "");
-	jyx2_ReplaceSceneObject("", "NPC/武当弟子63", "");
-	jyx2_ReplaceSceneObject("", "NPC/武当弟子64", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/武当弟子58", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/武当弟子59", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/武当弟子60", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/武当弟子61", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/武当弟子62", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/武当弟子63", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/武当弟子64", "");
 	
     ModifyEvent(-2, 65, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 66, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
@@ -238,10 +239,10 @@ if TryBattle(12) == true then goto label0 end;
     ModifyEvent(-2, 68, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 69, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 70, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
-	jyx2_ReplaceSceneObject("", "NPC/崆峒弟子65-死", "");
-	jyx2_ReplaceSceneObject("", "NPC/峨嵋弟子66-死", "");
-	jyx2_ReplaceSceneObject("", "NPC/武当弟子68-死", "");
-	jyx2_ReplaceSceneObject("", "NPC/少林弟子69-死", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/崆峒弟子65-死", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/峨嵋弟子66-死", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/武当弟子68-死", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/少林弟子69-死", "");
 	
 	--明教
     ModifyEvent(-2, 79, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
@@ -250,12 +251,12 @@ if TryBattle(12) == true then goto label0 end;
     ModifyEvent(-2, 82, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 83, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 84, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
-	jyx2_ReplaceSceneObject("", "NPC/明教弟子79", "");
-	jyx2_ReplaceSceneObject("", "NPC/明教弟子80", "");
-	jyx2_ReplaceSceneObject("", "NPC/明教弟子81", "");
-	jyx2_ReplaceSceneObject("", "NPC/明教弟子82", "");
-	jyx2_ReplaceSceneObject("", "NPC/明教弟子83", "");
-	jyx2_ReplaceSceneObject("", "NPC/明教弟子84", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/明教弟子79", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/明教弟子80", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/明教弟子81", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/明教弟子82", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/明教弟子83", "");
+	jyx2_ReplaceSceneObject("", "NPC/六大派弟子/明教弟子84", "");
 	
     ModifyEvent(-2, 96, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);
     ModifyEvent(-2, 97, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);

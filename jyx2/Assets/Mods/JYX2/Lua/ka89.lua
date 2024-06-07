@@ -8,8 +8,8 @@ jyx2_ReplaceSceneObject("", "NPC/殷天正", "");
 jyx2_ReplaceSceneObject("", "NPC/韦一笑", ""); 
 ModifyEvent(-2, 77, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|改变贴图为空。场景11-77
 ModifyEvent(-2, 78, 0, 0, -1, -1, -1, -1, -1, -1, -2, -2, -2);--by fanyu|改变贴图为空。场景11-78
-jyx2_ReplaceSceneObject("", "NPC/明教弟子77", "");
-jyx2_ReplaceSceneObject("", "NPC/明教弟子78", "");
+jyx2_ReplaceSceneObject("", "NPC/六大派弟子/明教弟子77", "");
+jyx2_ReplaceSceneObject("", "NPC/六大派弟子/明教弟子78", "");
 --明教弟子
 ModifyEvent(-2, 85, 1, 1, 87, -1, -1, 5302, 5302, 5302, -2, -2, -2);--by fanyu|启动脚本-87改变对话，改变贴图。场景11-85
 ModifyEvent(-2, 95, 1, 1, 87, -1, -1, 5302, 5302, 5302, -2, -2, -2);--by fanyu|启动脚本-87改变对话，改变贴图。场景11-95
@@ -17,12 +17,12 @@ ModifyEvent(-2, 86, 1, 1, 87, -1, -1, 5300, 5300, 5300, -2, -2, -2);--by fanyu|�
 ModifyEvent(-2, 87, 1, 1, 87, -1, -1, 5300, 5300, 5300, -2, -2, -2);--by fanyu|启动脚本-87改变对话，改变贴图。场景11-87
 ModifyEvent(-2, 88, 1, 1, 87, -1, -1, 5306, 5306, 5306, -2, -2, -2);--by fanyu|启动脚本-87改变对话，改变贴图。场景11-88
 ModifyEvent(-2, 89, 1, 1, 87, -1, -1, 5306, 5306, 5306, -2, -2, -2);--by fanyu|启动脚本-87改变对话，改变贴图。场景11-89
-jyx2_ReplaceSceneObject("", "NPC/明教弟子85", "1");
-jyx2_ReplaceSceneObject("", "NPC/明教弟子95", "1");
-jyx2_ReplaceSceneObject("", "NPC/明教弟子86", "1");
-jyx2_ReplaceSceneObject("", "NPC/明教弟子87", "1");
-jyx2_ReplaceSceneObject("", "NPC/明教弟子88", "1");
-jyx2_ReplaceSceneObject("", "NPC/明教弟子89", "1");
+jyx2_ReplaceSceneObject("", "NPC/六大派弟子/明教弟子85", "1");
+jyx2_ReplaceSceneObject("", "NPC/六大派弟子/明教弟子95", "1");
+jyx2_ReplaceSceneObject("", "NPC/六大派弟子/明教弟子86", "1");
+jyx2_ReplaceSceneObject("", "NPC/六大派弟子/明教弟子87", "1");
+jyx2_ReplaceSceneObject("", "NPC/六大派弟子/明教弟子88", "1");
+jyx2_ReplaceSceneObject("", "NPC/六大派弟子/明教弟子89", "1");
 
 ModifyEvent(-2, 90, 1, 1, 88, -1, -1, 5334, 5334, 5334, -2, -2, -2);--by fanyu|启动脚本-88改变对话，改变贴图。场景11-90
 ModifyEvent(-2, 91, 1, 1, 84, -1, -1, 5318, 5318, 5318, -2, -2, -2);--by fanyu|启动脚本-84改变对话，改变贴图。场景11-91
