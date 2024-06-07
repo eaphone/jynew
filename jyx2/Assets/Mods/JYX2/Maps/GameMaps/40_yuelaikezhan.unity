@@ -6438,9 +6438,9 @@ MonoBehaviour:
     m_ColorSpace: -1
     m_NumColorKeys: 2
     m_NumAlphaKeys: 2
-  waterShallowColor: {r: 0.39697012, g: 0.7173754, b: 0.8679245, a: 0}
+  waterShallowColor: {r: 0.39696828, g: 0.7173754, b: 0.8679245, a: 0}
   depth: 15
-  waterColor: {r: 0.41147554, g: 0.6739922, b: 0.6981132, a: 0}
+  waterColor: {r: 0.4114737, g: 0.6739922, b: 0.6981132, a: 0}
   fresnelColor: {r: 1, g: 1, b: 1, a: 0.484}
   fresnel: 4
   rimColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.35686275}
@@ -56027,12 +56027,12 @@ PrefabInstance:
     - target: {fileID: 7378702448966000010, guid: df0b645a3f2a7fa4d815135173eef85e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -7.497
+      value: -7.396
       objectReference: {fileID: 0}
     - target: {fileID: 7378702448966000010, guid: df0b645a3f2a7fa4d815135173eef85e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.31
+      value: 0.11199999
       objectReference: {fileID: 0}
     - target: {fileID: 7378702448966000010, guid: df0b645a3f2a7fa4d815135173eef85e,
         type: 3}
@@ -56047,7 +56047,7 @@ PrefabInstance:
     - target: {fileID: 7378702448966000010, guid: df0b645a3f2a7fa4d815135173eef85e,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 7378702448966000010, guid: df0b645a3f2a7fa4d815135173eef85e,
         type: 3}
@@ -56057,7 +56057,7 @@ PrefabInstance:
     - target: {fileID: 7378702448966000010, guid: df0b645a3f2a7fa4d815135173eef85e,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 7378702448966000010, guid: df0b645a3f2a7fa4d815135173eef85e,
         type: 3}
