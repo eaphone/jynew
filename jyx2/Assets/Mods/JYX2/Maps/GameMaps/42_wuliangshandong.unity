@@ -3475,7 +3475,7 @@ PrefabInstance:
     - target: {fileID: 5653504664391654945, guid: f2ee8729f006f5243962f0cd11c6cc3c,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7659806438615462826, guid: f2ee8729f006f5243962f0cd11c6cc3c,
         type: 3}
@@ -3485,17 +3485,17 @@ PrefabInstance:
     - target: {fileID: 7659806438615462826, guid: f2ee8729f006f5243962f0cd11c6cc3c,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 1.9769
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7659806438615462826, guid: f2ee8729f006f5243962f0cd11c6cc3c,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.9769009
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7659806438615462826, guid: f2ee8729f006f5243962f0cd11c6cc3c,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 1.9769009
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7659806438615462826, guid: f2ee8729f006f5243962f0cd11c6cc3c,
         type: 3}
@@ -3546,6 +3546,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7659806438615462826, guid: f2ee8729f006f5243962f0cd11c6cc3c,
+        type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13679,6 +13684,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Chair_11_old
+      objectReference: {fileID: 0}
+    - target: {fileID: 2099473968017681956, guid: 6f9ac08fd257123499854c3a512bc765,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4114748157469328303, guid: 6f9ac08fd257123499854c3a512bc765,
         type: 3}
